@@ -7,7 +7,7 @@ async/await可以说是co模块和生成器函数的语法糖。用更加清晰�
 
 当你用async关键词创建一个函数的时候，这个函数永远都会返回一个Promise。当你在async函数内部进行返回的时候，它会用一个Promise包裹你的值。
 
-```
+```javascript
 
  // here is an async function
 
@@ -29,7 +29,7 @@ function getNumber() {
 
 Await让你可以暂停async函数的执行，直到它受到了一个promise的结果。这让你可以写出按照执行顺序显示的async代码。
 
-```
+```javascript
 
  // async function to show user data
 
