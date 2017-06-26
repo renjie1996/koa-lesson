@@ -1,0 +1,15 @@
+{
+  "name": "lesson2-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generator-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
