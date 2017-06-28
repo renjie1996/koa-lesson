@@ -1,5 +1,5 @@
 {
-  "name": "lesson5-request",
+  "name": "lesson6-static",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.3.0",
-    "koa-bodyparser": "^3.2.0"
+    "koa": "^2.3.0"
   }
 }
